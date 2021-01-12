@@ -6,3 +6,4 @@ ipywidgets
 fastcore
 pillow>=7.1.0
 packaging
+fastai2
